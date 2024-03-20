@@ -77,4 +77,4 @@ def image2dice(path, size=80):
     _image2mosaic(_to_dice, path, size)
 
 
-image2dice("demo/img2.jpeg")
+image2dice("demo/img1.jpeg")
